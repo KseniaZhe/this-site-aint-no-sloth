@@ -1,0 +1,38 @@
+body {
+  background-color: #bea586;
+}
+
+main {
+  background-color: white;
+}
+
+.border-t {
+  border-top: solid rgba(28, 14, 0, .5) 2px;
+}
+
+.border-b {
+  border-bottom: solid rgba(28, 14, 0, .5) 2px;
+}
+
+html {
+  font-family: Verdana, sans-serif;
+}
+
+h1 {
+  font-family: Georgia, serif;
+  color: #fff;
+  text-shadow: 2px 2px 3px rgba(28, 14, 0, .9);
+}
+
+figcaption {
+  font-family: Georgia, serif;
+}
+
+a {
+  color: black;
+}
+
+/*.banner {
+  background-color: white;
+  background-image: linear-gradient(to right, black 20%, red 80%);
+}
