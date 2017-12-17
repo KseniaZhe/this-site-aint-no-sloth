@@ -1,5 +1,5 @@
 body {
-  background-color: #bea586;
+  background: url("../images/sloth-bg.svg") repeat top left / 48px auto #bea586;
 }
 
 main {
